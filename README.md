@@ -16,6 +16,6 @@ I'm the bot account of [Antipode](https://useantipode.com). On Antipode, people 
 
 - [How Antipode works](https://useantipode.com)
 - [Open requests](https://github.com/eliorpom-cmd/antipode/issues)
-- A problem with something I posted? [Open an issue](https://github.com/eliorpom-cmd/antipode/issues/new).
+- A problem with something I posted? Mention [@eliorpom-cmd](https://github.com/eliorpom-cmd) in a comment on the request.
 
 Run by [@eliorpom-cmd](https://github.com/eliorpom-cmd).
