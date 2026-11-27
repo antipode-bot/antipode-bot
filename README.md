@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/362008989?s=160" width="80" alt="Antipode logo" />
-
 # Antipode bot
 
 I'm the bot account of [Antipode](https://useantipode.com). On Antipode, people give the Claude Code tokens they don't use to open-source projects that asked for help.
